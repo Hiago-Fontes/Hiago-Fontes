@@ -1,10 +1,10 @@
-## Oi! eu me chamo Hiago Fontes!
+### Hi! My name is Hiago Fontes!
 
--🖥️ Curioso sobre o mundo/futuro da tecnologia e suas aplicações
+🖥️ Curious about the world/future of technology and its applications
 
--📖 Cursando o cs50x da EDX online
+📖 Currently taking the CS50x course on EDX online
 
--📧 Entre em Contato: fonteshiago2007@gmail.com
+📧 Contact me: fonteshiago2007@gmail.com
 
 <div style="display: inline_block"><br>
   <img align= "center" alt= "Hiago-Python" heigth= "30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
